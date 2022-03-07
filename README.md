@@ -9,13 +9,12 @@ Hello my name is Leonardo, I am twenty years old, and I love programming.
 -  I study Computer Science at College 👨‍🎓.
 
 ## Technologies
-- Delphi , Power Bi , C# , .NET 5 e SQL
-- Estudando .NET 5.
+- Delphi , Power Bi  e SQL
+- Estudando Javascript , NodeJs.
 
 **Languages and Tools:**  
 
 <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/381/381704.png"></code>
-<code><img height="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/dot_net_original_wordmark_logo_icon_146547.png"></code>
 <code><img height="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_delphi_icon_130648.png"></code>
 <code><img height="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sql_icon_130152.png"></code>
 
