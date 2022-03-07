@@ -12,14 +12,6 @@ Hello my name is Leonardo, I am twenty years old, and I love programming.
 - Delphi , Power Bi  e SQL
 - Estudando Javascript , NodeJs.
 
-**Languages and Tools:**  
-
-<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/381/381704.png"></code>
-<code><img height="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_delphi_icon_130648.png"></code>
-<code><img height="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sql_icon_130152.png"></code>
-
-
-
 ##  Contact Me
 - <a href="https://www.linkedin.com/in/leonardo-silv%C3%A9rio-%F0%9F%9A%80-8240551b2/">Linkedin</a>
 </div>
