@@ -1,15 +1,15 @@
 # Welcome 👾👽👨‍💻
 
-console.log(`Hello my name is Leonardo 😝`)
-for(me in my life) {
+###Hello my name is Leonardo 😝
 -  I live in Brazil 🏠. 
 -  I am a Software Developer 💻 && study Computer Science at College 👨‍🎓.
 -  Currently I am studying JavaScript && Node.js && English. 📚. 
-}
 
+### Contatos:
 
-##  Contact Me
-- <a href="https://www.linkedin.com/in/leonardo-silv%C3%A9rio-%F0%9F%9A%80-8240551b2/">Linkedin</a>
+<div>
+<a href="https://www.twitch.tv/dev_silverio" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/leonardo-silv%C3%A9rio-%F0%9F%9A%80-8240551b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 <div>
