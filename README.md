@@ -1,7 +1,7 @@
 ### Hello my name is Leonardo 😝
 -  I live in Brazil 🏠. 
 -  I am a Software Developer 💻 && study Computer Science at College 👨‍🎓.
--  Currently I am studying JavaScript && Node.js && English. 📚. 
+-  Currently I am studying C# && English. 📚. 
 
 ### Contatos:
 <div>
